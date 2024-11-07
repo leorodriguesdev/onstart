@@ -6,10 +6,10 @@ Bem-vindo ao repositório do site da **OnStart Tecnologia**, uma empresa dedicad
 
 Este projeto consiste no desenvolvimento do site institucional da OnStart Tecnologia, composto por quatro páginas principais:
 
-- **index.html**: Página inicial que apresenta a empresa e destaca os principais serviços oferecidos.
-- **about.html**: Página "Quem Somos", contendo informações sobre a missão, visão e valores da empresa.
-- **services.html**: Detalha todos os serviços e soluções tecnológicas oferecidas pela OnStart Tecnologia.
-- **contact.html**: Fornece informações de contato e localização para que os visitantes possam entrar em contato com a empresa.
+- **index**: Página inicial que apresenta a empresa e destaca os principais serviços oferecidos.
+- **about**: Página "Quem Somos", contendo informações sobre a missão, visão e valores da empresa.
+- **services**: Detalha todos os serviços e soluções tecnológicas oferecidas pela OnStart Tecnologia.
+- **contact**: Fornece informações de contato e localização para que os visitantes possam entrar em contato com a empresa.
 
 ## Tecnologias Utilizadas
 
@@ -26,16 +26,16 @@ Este projeto consiste no desenvolvimento do site institucional da OnStart Tecnol
   - `images/`: Imagens e logos utilizados no site.
   - `js/`: Scripts JavaScript para interatividade.
   - `fonts/`: Fontes personalizadas.
-- `index.html`: Página inicial do site.
-- `about.html`: Página com informações sobre a empresa.
-- `services.html`: Página detalhando os serviços oferecidos.
-- `contact.html`: Página com informações de contato e mapa de localização.
+- `index`: Página inicial do site.
+- `about`: Página com informações sobre a empresa.
+- `services`: Página detalhando os serviços oferecidos.
+- `contact`: Página com informações de contato e mapa de localização.
 
 ## Como Executar o Projeto
 
 1. Clone ou faça o download deste repositório.
 2. Certifique-se de que todas as pastas e arquivos estão no mesmo diretório.
-3. Abra o arquivo `index.html` em um navegador web de sua preferência.
+3. Abra o arquivo `index` em um navegador web de sua preferência.
 
 ## Contato
 
