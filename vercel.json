@@ -1,0 +1,45 @@
+{
+  "rewrites": [
+    {
+      "source": "/index",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/about",
+      "destination": "/about.html"
+    },
+    {
+      "source": "/services",
+      "destination": "/services.html"
+    },
+    {
+      "source": "/contact",
+      "destination": "/contact.html"
+    },
+    {
+      "source": "/features/blog",
+      "destination": "/features/blog.html"
+    },
+    {
+      "source": "/features/blog-details",
+      "destination": "/features/blog-details.html"
+    },
+    {
+      "source": "/features/project-details",
+      "destination": "/features/project-details.html"
+    },
+    {
+      "source": "/features/projects",
+      "destination": "/features/projects.html"
+    },
+    {
+      "source": "/features/single-service",
+      "destination": "/features/single-service.html"
+    },
+    {
+      "source": "/features/team-details",
+      "destination": "/features/team-details.html"
+    }
+  ],
+  "trailingSlash": false
+} 
